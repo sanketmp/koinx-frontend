@@ -16,5 +16,8 @@ Tax Rate = “$5092 + 32.5% of excess over $45000”<br>
 Capital Gains Amount = 30<br>
 Long Term Capital Gains Discount = 15<br>
 Net Capital Gains Amount = 15<br>
-Tax you need to pay = 4.875 (which is 32.5% of 15)
+Tax you need to pay = 4.875 (which is 32.5% of 15)<br>
+
+
+- [Live Preview](https://koinx-frontend.netlify.app/)
 
